@@ -1,8 +1,9 @@
 body {
-    font-size: 16px;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    color: #333;
+    font-size: 16px;
 }
 header {
     padding: 3rem 0;
