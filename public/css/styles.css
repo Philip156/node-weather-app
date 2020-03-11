@@ -1,0 +1,18 @@
+body {
+    font-size: 16px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+header {
+    padding: 3rem 0;
+}
+h1 {
+    color: grey;
+}
+img {
+    width: 10rem;
+}
+footer {
+    padding: 3rem;
+}
